@@ -1,4 +1,4 @@
-const STORAGE_KEY = 'akysign_static_app_v2';
+const STORAGE_KEY = 'akysign_static_app_v2'
 
 const translations = {
   en: {
